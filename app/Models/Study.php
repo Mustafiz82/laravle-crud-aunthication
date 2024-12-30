@@ -15,3 +15,4 @@ class Study extends Model
         'user_id',
     ];
 }
+    
